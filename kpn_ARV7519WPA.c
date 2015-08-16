@@ -44,11 +44,11 @@ while ((opt = getopt(argc, argv, "m:v:s:e:?:")) != -1) {
 
         case '?':
             printf("\nparameters/usage:\n");
-            printf("\n-m [required]: MAC-address or SSID of router");
+            printf("\n-m [required]: MAC-address of router");
             printf("\n-s [optional]: range start for last 5 digits of serial#. (Also use this to generate WPA key for just one unique serial#)");
             printf("\n-e [optional]: range end for serial# (max. 99999)");
             printf("\n-v [optional]: verbose  - outputs serial# , WPA-key and WPS pin");
-            printf("\n\nexample 1: kpn_7519WPA -m 74:31:70:BA:BA:A9\n");
+            printf("\n\nexample 1: kpn_ARV7519WPA -m 74:31:70:BA:BA:A9\n");
             printf("\nexample 2: kpn_ARV7519WPA -s 85894 -m 00:00:00:B8:68:21 -v 0\n\n");
         break;
         }
