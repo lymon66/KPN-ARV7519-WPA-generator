@@ -18,7 +18,7 @@ parameters/usage:
 -v [optional]: verbose  - outputs serial# , WPA-key and WPS pin
 
 
-example 1: kpn_7519WPA -m 74:31:70:BA:BA:A9
+example 1: kpn_ARV7519WPA -m 74:31:70:BA:BA:A9
 
 example 2: kpn_ARV7519WPA -s 85894 -m 00:00:00:B8:68:21 -v 0
 
