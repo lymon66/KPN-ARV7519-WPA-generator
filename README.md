@@ -2,12 +2,14 @@
 WPA/WPS Generator for KPN Arcadyan ARV7519 routers
 
 FOR DEMONSTRATION PURPOSES ONLY !
+
 USE IT ONLY ON YOUR OWN ROUTER !
 
 
 parameters/usage:
 
--m [required]: MAC-address or SSID of router
+-m [required]: MAC-address of router
+
 
 -s [optional]: range start for last 5 digits of serial#. (Also use this to generate WPA key for just one unique serial#)
 
