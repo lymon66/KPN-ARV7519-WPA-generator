@@ -5,7 +5,7 @@ Default WPA/WPS Generator for KPN Experiabox 7 (Arcadyan ARV7519) routers
 Tool to create a list of default WPA/WPS keys based on MAC-address and (a range of) serialnumbers
 
 
-**** THIS APPLICATION IS FOR SECURITY TESTING OF YOUR OWN ROUTER(S) ONLY     ****
+**** THIS APPLICATION IS FOR SECURITY TESTING OF YOUR OWN ROUTER(S) ONLY   ****
 **** IT IS NOT ALLOWED TO USE THIS APPLICATION FOR ANY ILLEGAL PURPOSES !  ****
 
 
