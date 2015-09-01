@@ -6,6 +6,7 @@ Tool to create a list of default WPA/WPS keys based on MAC-address and (a range 
 
 
 **** THIS APPLICATION IS FOR SECURITY TESTING OF YOUR OWN ROUTER(S) ONLY   ****
+
 **** IT IS NOT ALLOWED TO USE THIS APPLICATION FOR ANY ILLEGAL PURPOSES !  ****
 
 
