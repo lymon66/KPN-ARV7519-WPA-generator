@@ -11,6 +11,10 @@ Tool to create a list of default WPA/WPS keys based on MAC-address and (a range 
 
 
 
+compile: gcc kpn_ARV7519WPA.c -o kpn_ARV7519WPA
+
+
+
 parameters/usage:
 
 -m [required]: MAC-address of router
